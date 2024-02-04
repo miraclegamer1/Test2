@@ -1,0 +1,21 @@
+@media screen and (max-width: 600px) {
+   .nav-div{
+    display: block;
+   }
+   .nav-link a{
+    margin-left: 10px;
+    margin-top: -10px;
+   }
+.nav-hr{
+  width: 300px;
+}
+.nav-brand{
+    width: 60%;
+    margin: auto;
+
+}
+.nav-link{
+    width: 70%;
+    margin: auto;
+}
+  }
